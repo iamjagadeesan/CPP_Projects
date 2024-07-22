@@ -1,5 +1,5 @@
 ## Tic-Tac-Toe Game in C++
-
+![tictactoe](https://github.com/user-attachments/assets/a631724d-1a8d-4c2a-86f6-3235b07578b6)
 ### Description
 
 This project is a console-based implementation of the classic Tic-Tac-Toe game, developed in C++. It features a simple user interface and allows two players to play the game alternately. The game keeps track of the player's moves, checks for win conditions after every move, and declares the winner or if the game is a tie. 
