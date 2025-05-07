@@ -1,4 +1,3 @@
-````markdown
 # 🏏 Cricket Score Calculator (Console-Based)
 
 A fun and interactive console-based **Cricket Score Calculator** written in **C++**, designed to simulate a limited-overs cricket match between two teams. The program takes ball-by-ball input from the user, handles match progression, tracks runs, wickets, extras, and even simulates outcomes like tie, victory, and all-out scenarios.
@@ -36,18 +35,15 @@ A fun and interactive console-based **Cricket Score Calculator** written in **C+
 
 1. **Clone or Download the Repository**
 
-   ```bash
    git clone https://github.com/yourusername/cricket-score-calculator.git
-````
 
-2. **Open in any C++ IDE** (e.g., Code::Blocks, Dev-C++, Visual Studio)
+   
+3. **Open in any C++ IDE** (e.g., Code::Blocks, Dev-C++, Visual Studio)
 
-3. **Compile and Run**
+4. **Compile and Run**
 
    * Make sure to use a Windows environment (due to `windows.h` dependency)
    * Build and Run the project
-
----
 
 ## 📸 Screenshots
 ![Screenshot (136)](https://github.com/user-attachments/assets/83513823-87ed-48b1-9770-86657899e21c)
